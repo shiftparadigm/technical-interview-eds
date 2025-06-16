@@ -1,10 +1,12 @@
+import { renderContactUsModal } from "./accordion-modal.ts";
+
 type AccordionItem = {
     title: string;
     content: string;
 }
 
 function decorateAccordion(accordion: HTMLElement) {
-    console.log('decorating accordion');
+    // TODO: add accordion functionality
 }
 
 window.addEventListener('DOMContentLoaded', () => {

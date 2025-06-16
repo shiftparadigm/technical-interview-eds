@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Basic TypeScript HTML project",
   "scripts": {
-    "build": "tsc",
-    "watch": "tsc -w",
+    "build": "esbuild src/**/*.ts --bundle --outdir=src --format=esm",
+    "watch": "esbuild src/**/*.ts --bundle --outdir=src --format=esm --watch",
     "serve": "http-server src -p 8080 -c-1"
   },
   "devDependencies": {
     "typescript": "^5.3.3",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "esbuild": "^0.20.2"
   }
-} 
+}
