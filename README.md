@@ -6,7 +6,7 @@ This challenge focuses on implementing a user-friendly accordion component with 
 ## Challenge Requirements
 
 ### 1. Accordion Component Implementation
-- Convert the provided HTML structure into component resembling the provided designs
+- Convert the provided HTML structure into a component resembling the provided designs
 - Implement the accordion functionality
 - Implement load more functionality, only show four accordions at a time
 
