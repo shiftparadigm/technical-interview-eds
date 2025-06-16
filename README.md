@@ -15,16 +15,6 @@ This challenge focuses on implementing a user-friendly accordion component with 
 - Add validation to the form. First name, last name, and email should be required
 - Display clear and user-friendly error messages
 
-## Stretch Goals
-If time permits, consider implementing these additional features:
-
-### Accessibility Enhancements
-- Add keyboard navigation support
-- Implement ARIA attributes and roles
-- Add proper focus management
-- Ensure screen reader compatibility
-- Add appropriate aria-labels and descriptions
-
 ## Technical Requirements
 - Use TypeScript for type safety
 - Follow component best practices
@@ -39,3 +29,13 @@ If time permits, consider implementing these additional features:
 5. Add the modal functionality
 6. Implement validation and error handling
 7. (Optional) Add accessibility features if time permits
+
+## Stretch Goals
+If time permits, consider implementing these additional features:
+
+### Accessibility Enhancements
+- Add keyboard navigation support
+- Implement ARIA attributes and roles
+- Add proper focus management
+- Ensure screen reader compatibility
+- Add appropriate aria-labels and descriptions
