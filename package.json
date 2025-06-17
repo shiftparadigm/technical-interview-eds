@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Basic TypeScript HTML project",
   "scripts": {
-    "build": "esbuild src/**/*.ts --bundle --outdir=src --format=esm",
-    "watch": "esbuild src/**/*.ts --bundle --outdir=src --format=esm --watch",
+    "build": "esbuild src/**/*.ts --bundle --outdir=src --outbase=src --format=esm",
+    "watch": "esbuild src/**/*.ts --bundle --outdir=src --outbase=src --format=esm --watch",
     "serve": "http-server src -p 8080 -c-1"
   },
   "devDependencies": {

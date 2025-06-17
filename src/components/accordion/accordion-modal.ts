@@ -1,7 +1,7 @@
 import { createModal } from "../modal/modal.ts";
 
 
-export async function renderContactUsModal() {
+export async function renderAccordionModal() {
     const modalContent = document.createElement('form');
     modalContent.classList.add('contact-us-modal');
     modalContent.innerHTML = `
