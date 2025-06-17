@@ -1,5 +1,3 @@
-import { renderContactUsModal } from "./accordion-modal.ts";
-
 type AccordionItem = {
     title: string;
     content: string;

@@ -13,7 +13,7 @@ This challenge focuses on implementing an accordion and modal component on a web
 ### 1. Accordion Component Implementation
 - Convert the provided HTML structure into a component resembling the provided designs 
     - Located at `src/components/accordion/accordion.html`
-    - The accordion component should have a header, content, and a icon to open the modal
+    - The accordion component should have a header, content, and a button to open the modal
     - Style the accordion component using css, the stretch goals include responsive design, so keep in mind that the component should be mobile-friendly
 - Implement the accordion functionality
     - Clicking on them should expand and collapse the content
@@ -23,7 +23,7 @@ This challenge focuses on implementing an accordion and modal component on a web
 
 ### 2. Modal Integration
 - Located at `src/components/accordion/accordion-modal.ts`
-- Open the accordion modal when clicking on the contact us button
+- Open the accordion modal when clicking on the contact us button, you have free reign for where to add the button
 - Add validation to the form. First name, last name, and email should be required
 - Display clear and user-friendly error messages
 
