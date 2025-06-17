@@ -31,7 +31,6 @@ This challenge focuses on implementing an accordion and modal component on a web
 - Use TypeScript for type safety
 - Follow component best practices
 - Write clean, maintainable code
-- Ensure responsive design (mobile: under 640px, tablet: 640px - 1279px, desktop: 1280px and above) //{Maybe remove this requirement, pointing it out above, plus having it as a stretch goal seems appropriate for the amount of time.}
 
 ## Stretch Goals
 If time permits, consider implementing these additional features:
