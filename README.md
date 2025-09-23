@@ -5,6 +5,7 @@ This challenge focuses on implementing an accordion and modal component on a web
 
 ## Use of LLMs in This Challenge
 We recognize that large language models (LLMs) like Copilot, ChatGPT, or other AI tools have become part of many developers’ everyday workflows. In this challenge, you're welcome to use these tools just as you would in a real-world setting—to help brainstorm, clarify concepts, debug, or refine your approach.
+
 However, we ask that you do not rely on LLMs to generate the full solution for you. The goal of this exercise is to understand how you think, design, and implement code—not how well you can prompt an AI.
 
 ## Getting Started
